@@ -11,10 +11,19 @@
 
 <h3> 👑 CEO's </h3>
 
-<img src="https://i.imgur.com/FLcCqFM.png" alt="https://github.com/zSpl1nterUS"> <img src="https://i.imgur.com/4nA5U90.png" alt="https://github.com/Niskii3">
+<img
+  src="https://avatars.githubusercontent.com/zSpl1nterUS"
+  style="border-radius: 50%"
+  alt="https://github.com/zSpl1nterUS"
+  width="10%"
+/>
 
-| **[Splinter](https://github.com/zSpl1nterUS)** |   &  | **[Niskii](https://github.com/Niskii3)** |
-| --------------------------------------------------- | ----- | ---------------------------------------- |
+<img
+  src="https://avatars.githubusercontent.com/Niskii3"
+  style="border-radius: 50%"
+  alt="https://github.com/Niskii3"
+  width="10%"
+/>
 
 
 </div>
