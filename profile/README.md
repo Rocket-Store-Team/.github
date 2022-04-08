@@ -13,10 +13,10 @@
 
 <img src="https://i.imgur.com/FLcCqFM.png" alt="https://github.com/zSpl1nterUS"> <img src="https://i.imgur.com/4nA5U90.png" alt="https://github.com/Niskii3">
 
-| **[zSpl1nterUS\_](https://github.com/zSpl1nterUS)** |
+| **[zSpl1nterUS\_](https://github.com/zSpl1nterUS)** | | **[Niskii](https://github.com/Niskii3)** |
 | --------------------------------------------------- |
 
-| **[Niskii](https://github.com/Niskii3)** |
+
 | ---------------------------------------- |
 
 </div>
