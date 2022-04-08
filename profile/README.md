@@ -4,7 +4,7 @@
 
 **A simple discord store where you can buy your bot.**
 
-<iframe src="https://discord.com/widget?id=958770825522217110&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=958770825522217110&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" />
 
 <!-- [![Support Server](https://discord.com/api/guilds/958770825522217110/embed.png?style=banner2)](https://discord.gg/hmptMArghm) -->
 
