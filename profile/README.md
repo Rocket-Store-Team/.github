@@ -11,7 +11,7 @@
 
 <h3> 👑 CEO's </h3>
 
-<img src="https://i.imgur.com/FLcCqFM.png" alt="discord@me"> <img src="https://i.imgur.com/4nA5U90.png[" alt="discord@me">
+<img src="https://i.imgur.com/FLcCqFM.png" alt="https://github.com/zSpl1nterUS"> <img src="https://i.imgur.com/4nA5U90.png" alt="https://github.com/Niskii3">
 
 | **[zSpl1nterUS\_](https://github.com/zSpl1nterUS)** |
 | --------------------------------------------------- |
