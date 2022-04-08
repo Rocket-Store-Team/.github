@@ -9,8 +9,13 @@
 <hr>
     <br><img src="https://i.imgur.com/FLcCqFM.png" alt="discord@me"><br>
     
-| **[zSpl1nterUS_#6455](https://github.com/zSpl1nterUS)**	|
+| **[zSpl1nterUS_](https://github.com/zSpl1nterUS)**	|
 |-----------------------------------------------------------------------------	|
+
+<br><img src="https://i.imgur.com/4nA5U90.png[" alt="discord@me"><br>
+
+| **[Niskii](https://github.com/Niskii3)** |
+| ---------------------------------------- |
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=86deff&lines=+The+sky+isn't+the+limit.+Go+beyond.)](https://git.io/typing-svg)
 
