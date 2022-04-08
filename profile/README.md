@@ -8,7 +8,7 @@
 
 <hr>
 
-<p align='center>
+<p align='center'>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=86deff&lines=The+sky+isn't+the+limit)](https://git.io/typing-svg)
 </p>
 
