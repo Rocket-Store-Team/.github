@@ -8,8 +8,6 @@
 
 <hr>
 
-<h3>
-    🚀 The sky isn't the limit.
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=86deff&lines=The+sky+isn't+the+limit)](https://git.io/typing-svg)
 
 </div>
