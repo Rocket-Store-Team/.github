@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://discord.gg/hmptMArghm" target="_blank"><img src="https://i.imgur.com/zRk4C7b.png" alt="Rocket Logo" height="100" /></a>
+<a href="https://discord.gg/hmptMArghm" target="_blank"><img src="https://i.imgur.com/zRk4C7b.png" alt="Rocket Logo" height="200" /></a>
 
 **A simple discord store where you can buy your bot.**
 
