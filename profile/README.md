@@ -6,4 +6,10 @@
 
 [![Support Server](https://discord.com/api/guilds/958770825522217110/embed.png?style=banner2)](https://discord.gg/hmptMArghm)
 
+<hr>
+
+<h3>
+    🚀 The sky isn't the limit.
+</h3>
+
 </div>
