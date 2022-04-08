@@ -8,12 +8,12 @@
 
 <hr>
 <div>
-    <br><img src="https://i.imgur.com/FLcCqFM.png" alt="discord@me"><br>
+    <br><img src="https://i.imgur.com/FLcCqFM.png" alt="discord@me">
     
 | **[zSpl1nterUS_](https://github.com/zSpl1nterUS)**	|
 |-----------------------------------------------------------------------------	|
 
-<br><img src="https://i.imgur.com/4nA5U90.png[" alt="discord@me"><br>
+<img src="https://i.imgur.com/4nA5U90.png[" alt="discord@me"><br>
 
 | **[Niskii](https://github.com/Niskii3)** |
 | ---------------------------------------- |
