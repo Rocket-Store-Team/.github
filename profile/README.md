@@ -13,8 +13,8 @@
 
 <img src="https://i.imgur.com/FLcCqFM.png" alt="discord@me"> <img src="https://i.imgur.com/4nA5U90.png[" alt="discord@me">
 
-| **[zSpl1nterUS\_](https://github.com/zSpl1nterUS)** | | **[Niskii](https://github.com/Niskii3)** |
-| --------------------------------------------------- | | ---------------------------------------- |
+| **[zSpl1nterUS\_](https://github.com/zSpl1nterUS)** **[Niskii](https://github.com/Niskii3)** |
+| --------------------------------------------------- | 
 
 </div>
 
