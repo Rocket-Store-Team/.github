@@ -11,7 +11,7 @@
   <div>
     <h3>👑 CEO's</h3>
 
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/43508512?v=4&h=128&w=128&fit=cover&mask=circle&maxage=7d" alt="https://github.com/zSpl1nterUS" width="15%" /> <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/93174021?v=4&h=128&w=128&fit=cover&mask=circle&maxage=7d" alt="https://github.com/Niskii3" width="15%" />
+<img alt="https://github.com/zSpl1nterUS" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/43508512?v=4&h=128&w=128&fit=cover&mask=circle&maxage=7d" alt="https://github.com/zSpl1nterUS" width="15%" /> <img alt="https://github.com/Niskii3" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/93174021?v=4&h=128&w=128&fit=cover&mask=circle&maxage=7d" alt="https://github.com/Niskii3" width="15%" />
 | **[Splinter](https://github.com/zSpl1nterUS)** |   &  | **[Niskii](https://github.com/Niskii3)** |
 | --------------------------------------------------- | ----- | ---------------------------------------- |
 
